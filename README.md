@@ -6,6 +6,7 @@
 ***
 - Currently studying android native development.
 - I'm interested in learning more about native development.
+- 
   <a href="https://github.com/joao91carlosGit">
   <div style="text-align:center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=joao91carlosGit&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
