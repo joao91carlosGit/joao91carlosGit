@@ -5,7 +5,7 @@
   
 ***
 - Currently studying android native development.
-- I'm interested in learning more about native development.
+- I'm interested in learning more about native development and design.
 
   <br>
   <div style="align:center">
