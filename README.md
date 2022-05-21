@@ -1,4 +1,4 @@
-### Hi there 👋🏾
+### Hi there 👋
 ##
 ### About Me
   My name is João Carlos Jagusewski Morais, I was born in Brazil in the 2000s. Im a mobile developer at [SF-GEO](https://sulflorestas.com.br/), and I'm always looking to learn more about mobile technology📱.
